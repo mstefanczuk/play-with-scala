@@ -6,5 +6,6 @@ object Main {
     Option_4.print()
     PatternMatching_5.print()
     BankAccount_6.print()
+    ClassPatternMatching_7.print()
   }
 }
