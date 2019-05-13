@@ -7,5 +7,6 @@ object Main {
     PatternMatching_5.print()
     BankAccount_6.print()
     ClassPatternMatching_7.print()
+    RemoveZerosFromIntegerList_8.print()
   }
 }
