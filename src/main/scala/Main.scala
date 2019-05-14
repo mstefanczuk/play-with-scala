@@ -9,5 +9,6 @@ object Main {
     ClassPatternMatching_7.print()
     RemoveZerosFromIntegerList_8.print()
     IncrementListElements_9.print()
+    AbsoluteList_10.print()
   }
 }
