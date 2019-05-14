@@ -8,5 +8,6 @@ object Main {
     BankAccount_6.print()
     ClassPatternMatching_7.print()
     RemoveZerosFromIntegerList_8.print()
+    IncrementListElements_9.print()
   }
 }
